@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Dauphin';
+    src: url('Dauphin\ Regular.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Dauphin', sans-serif;
+}
+
